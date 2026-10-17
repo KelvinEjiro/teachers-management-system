@@ -32,3 +32,4 @@ Open the app: on a fresh database it asks you to create the first administrator.
 
 Run the rule tests with `cd Backend && npm test`.
 # teachers-management-system
+# teachers-management-system
